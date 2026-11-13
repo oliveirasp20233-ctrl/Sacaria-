@@ -1,0 +1,6 @@
+{
+  "name": "Conecta Sacaria — Catálogo Têxtil & Pedidos via WhatsApp",
+  "description": "Catálogo completo de sacaria, cama, mesa, banho, tapetes e utilidades têxteis com tabela progressiva de atacado e checkout otimizado para pedidos rápidos pelo WhatsApp (11) 99989-3780.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
